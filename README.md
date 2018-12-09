@@ -5,4 +5,6 @@ Project name: Transfer learning with Convolutional Neural Network for Animal Cla
 
 Dataset: Animals-10 (has been augmented, deleted noise images)
 
+Implemented on Google Colab
+
 Team members: Tuan Luu-Duc, Huy Bui-Quoc, Nhat-Khanh Nguyen-Ba
