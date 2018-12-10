@@ -8,3 +8,5 @@ Dataset: Animals-10 on Kaggle (has been augmented by grayscale and flip, deleted
 Implemented and ran on Google Colab
 
 Team members: Tuan Luu-Duc, Huy Bui-Quoc, Nhat-Khanh Nguyen-Ba (16CTT)
+
+If you have any issues/questions, feel free to post into Issues section or email ldtuan@apcs.vn
