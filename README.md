@@ -1,4 +1,4 @@
-# CS414_Transfer_Learning
+# CS414 Final Project
 This is our source code for CS414 - Machine Learning course at HCMUS, VNU-HCM.
 
 Project name: Transfer learning with Convolutional Neural Network for Animal Classification
